@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme{
+    --color-primary: #202022;
+    --color-secondary: #f9fafc;
+    --color-chat: #7678ed;
+    --color-notification: #ff7a55;
+}
